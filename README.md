@@ -1,8 +1,6 @@
 <p align="center">Hi there, I'm Berkan  👋</p> 
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/berkangzgn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fberkangzgn&screen_name=berkangzgn)
-
+---
 
 - 💻  Computer Engineering
 - 🔭 I'm currently building a blog site
@@ -11,7 +9,6 @@
 - 🥅 2020 Goals: Contributing more to Open Source projects
 - ⚡ Fun fact: I don't care. Because why not?
 - 📫  How to reach me bgezgin@protonmail.com
-
 <br>
 
 ### Spotify Playing 🎧
@@ -24,7 +21,10 @@
 [<img align="left" alt="berkangzgn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="berkangzgn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="berkangzgn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/berkangzgn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fberkangzgn&screen_name=berkangzgn)
 <br>
+
 
 ### Languages and Tools:
 
