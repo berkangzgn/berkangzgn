@@ -1,4 +1,4 @@
-                         Hi there, I'm Berkan  👋
+<p align="center">Hi there, I'm Berkan  👋</p> 
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/berkangzgn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fberkangzgn&screen_name=berkangzgn)
@@ -12,17 +12,19 @@
 - ⚡ Fun fact: I don't care. Because why not?
 - 📫  How to reach me bgezgin@protonmail.com
 
+<br>
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="berkangzgn Spotify Playing" width="350" />](https://open.spotify.com/user/21sjfgc7d56h37uvlme7ehtey)
+<br>
 
 ### Connect with me:
 
 [<img align="left" alt="berkangzgn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="berkangzgn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="berkangzgn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br>
 
 ### Languages and Tools:
 
@@ -43,18 +45,15 @@
 
 <br>
 <br>
-
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkangzgn&layout=compact" alt="berkangzgn" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkangzgn&layout=compact" alt="berkangzgn" /></p>
 
 <br>
-
 <br>
 
-  <summary> GitHub Stats</summary>
 
-  <img align="left" alt="berkangzgn's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=berkangzgn&show_icons=true&hide_border=true" />
+<img align="left" alt="berkangzgn's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=berkangzgn&show_icons=true&hide_border=true" />
 
 
 
