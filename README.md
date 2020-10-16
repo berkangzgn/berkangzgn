@@ -48,11 +48,8 @@
 <br>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkangzgn&layout=compact" alt="berkangzgn" /></p>
-
 <br>
 <br>
-
-
 <img align="left" alt="berkangzgn's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=berkangzgn&show_icons=true&hide_border=true" />
 
 
