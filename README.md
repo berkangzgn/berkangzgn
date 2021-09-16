@@ -8,13 +8,6 @@
 - 📫  How to reach me bgezgin@protonmail.com
 <br>
 
-<!-- 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="berkangzgn Spotify Playing" width="350" />](https://open.spotify.com/user/21sjfgc7d56h37uvlme7ehtey)
-<br>
--->
-
 ### 🐱‍🏍 Connect with me:
 
 [<img align="left" alt="berkangzgn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,7 +33,6 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/ff2725410fd26b91a5539552d4c74e14a0ee6f83053f8c6b3d13815d1602188a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f76697375616c2d73747564696f2d636f64652d323031392e706e67" /> -->
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -52,9 +44,8 @@
   <summary>More about me..</summary>
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkangzgn&layout=compact" alt="berkangzgn" />
-  <img align="right">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=berkangzgn&show_icons=true&count_private=true&theme=light" /><br><br>
-  <!-- <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=berkangzgn&show_icons=true&count_private=true&theme=light" /></p> -->
-  <br/>
+  <img align="right">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=berkangzgn&show_icons=true&count_private=true&theme=light" />
+  <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=berkangzgn" />
 
