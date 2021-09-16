@@ -22,7 +22,7 @@
 [<img align="left" alt="berkangzgn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/berkangzgn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fberkangzgn&screen_name=berkangzgn) -->
-<br>
+<br><br>
 
 
 ### 🤦‍♂️ Languages and Tools:
@@ -47,12 +47,18 @@
 
 <br><br><br>
 
-<img style="margin-right: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkangzgn&layout=compact" alt="berkangzgn" />
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=berkangzgn&show_icons=true&count_private=true&theme=light" /></p>
-<br/><br/><br/>
-  
-<img src="https://komarev.com/ghpvc/?username=berkangzgn" />
 
-[twitter]: https://twitter.com/berkangzgn
-[instagram]: https://instagram.com/berkangzgn
-[linkedin]: https://linkedin.com/in/berkan-gezgin-099021160
+<details><br>
+  <summary>More about me..</summary>
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkangzgn&layout=compact" alt="berkangzgn" />
+  <img align="right">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=berkangzgn&show_icons=true&count_private=true&theme=light" /><br><br>
+  <!-- <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=berkangzgn&show_icons=true&count_private=true&theme=light" /></p> -->
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=berkangzgn" />
+
+  [twitter]: https://twitter.com/berkangzgn
+  [instagram]: https://instagram.com/berkangzgn
+  [linkedin]: https://linkedin.com/in/berkan-gezgin-099021160
+</details>
