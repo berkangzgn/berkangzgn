@@ -43,8 +43,8 @@
 <details><br>
   <summary>More about me..</summary>
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkangzgn&layout=compact" alt="berkangzgn" />
-  <img align="right">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=berkangzgn&show_icons=true&count_private=true&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkangzgn&layout=compact" alt="berkangzgn" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=berkangzgn&show_icons=true&count_private=true&theme=light" />
   <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=berkangzgn" />
