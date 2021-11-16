@@ -8,7 +8,7 @@
 - 📫  How to reach me bgezgin@protonmail.com
 <br>
 
-### 🐱‍🏍 Connect with me:
+### Connect with me:
 
 [<img align="left" alt="berkangzgn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="berkangzgn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -18,7 +18,7 @@
 <br><br>
 
 
-### 🤦‍♂️ Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Ruby" width="26px" src="https://avatars2.githubusercontent.com/u/210414?s=200&v=4" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
