@@ -3,7 +3,7 @@
 ---
 
 - 💻 Computer Engineering
-- 🥅 2021 Goals: Mastering language
+- 🥅 2022 Goals: Mastering language
 - ⚡ Fun fact: I don't care. Because why not?
 - 📫  How to reach me bgezgin@protonmail.com
 <br>
