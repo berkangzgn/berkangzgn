@@ -19,7 +19,7 @@
 
 
 ### Languages and Tools:
-
+<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
 <img align="left" alt="Ruby" width="26px" src="https://avatars2.githubusercontent.com/u/210414?s=200&v=4" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  />
