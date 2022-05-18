@@ -2,7 +2,7 @@
 
 ---
 
-- 💻 Computer Engineering
+- 💻 Computer Engineering - IOS Dev.
 - 🥅 2022 Goals: Mastering language
 - ⚡ Fun fact: I don't care. Because why not?
 - 📫  How to reach me bgezgin@protonmail.com
