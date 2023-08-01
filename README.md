@@ -56,7 +56,7 @@ Hello, I'm Berkan. I am trying to improve myself and advance my career in IOS de
 
 <div align=center>
   <a href="https://github.com/berkangzgn/LuckWheel_Swift"><img width=150 src="https://github.com/berkangzgn/LuckWheel_Swift/blob/main/Images/LuckyWheelSR.gif"></a>
-  <a href="[https://apps.apple.com/app/harbi-14-pro-pink-wallpapers/id6451498327](https://github.com/berkangzgn/VeroDS)"><img width=150 src="https://github.com/berkangzgn/VeroDS/blob/main/Images/VeroDS.gif"></a>
+  <a href="https://github.com/berkangzgn/VeroDS"><img width=150 src="https://github.com/berkangzgn/VeroDS/blob/main/Images/VeroDS.gif"></a>
   <a href="https://github.com/berkangzgn/PhotoMobileApp"><img width=150 src="https://github.com/berkangzgn/PhotoMobileApp/blob/main/Images/homepage.png"></a>
   <a href="https://github.com/berkangzgn/UcuzaBiletSC"><img width=150 src="https://github.com/berkangzgn/UcuzaBiletSC/blob/main/Images/app.png"></a>
 </div>
