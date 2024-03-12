@@ -55,9 +55,9 @@ Hello, I'm Berkan. I am trying to improve myself and advance my career in IOS de
 </div>
 
 <div align=center>
+  <a href="https://github.com/berkangzgn/Darevia"><img width=150 src="https://github.com/berkangzgn/Darevia/blob/main/Images/ScreenRecording.gif"></a>
   <a href="https://github.com/berkangzgn/LuckWheel_Swift"><img width=150 src="https://github.com/berkangzgn/LuckWheel_Swift/blob/main/Images/LuckyWheelSR.gif"></a>
   <a href="https://github.com/berkangzgn/VeroDS"><img width=150 src="https://github.com/berkangzgn/VeroDS/blob/main/Images/VeroDS.gif"></a>
-  <a href="https://github.com/berkangzgn/PhotoMobileApp"><img width=150 src="https://github.com/berkangzgn/PhotoMobileApp/blob/main/Images/homepage.png"></a>
   <a href="https://github.com/berkangzgn/UcuzaBiletSC"><img width=150 src="https://github.com/berkangzgn/UcuzaBiletSC/blob/main/Images/app.png"></a>
 </div>
  
